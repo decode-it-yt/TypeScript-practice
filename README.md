@@ -10,12 +10,12 @@ Welcome to my daily TypeScript practice log! Each day I explore new concepts and
 ## 📘 <ins>Day - 1: TypeScript Basics</ins>:
 
 *1. Type Annotations <br/>
-2. Type Inference
-3. any type
-4. Function Parameters Annotations
-5. void in TypeScript
-6. never keyword
-7. Array types
-8. Multi-Dimensional Arrays {Matrix}
-9. Objects
-10. Type Alias*
+2. Type Inference <br/>
+3. any type <br/>
+4. Function Parameters Annotations <br/>
+5. void in TypeScript <br/>
+6. never keyword <br/>
+7. Array types <br/>
+8. Multi-Dimensional Arrays {Matrix} <br/>
+9. Objects <br/>
+10. Type Alias <br/>*
