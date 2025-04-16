@@ -9,8 +9,8 @@ Welcome to my daily TypeScript practice log! Each day I explore new concepts and
 
 ## 📘 <ins>Day - 1: TypeScript Basics</ins>:
 
-*1. Type Annotations
-2. Type Inference
+*1. Type Annotations*
+*2. Type Inference
 3. any type
 4. Function Parameters Annotations
 5. void in TypeScript
