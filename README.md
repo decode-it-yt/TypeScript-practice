@@ -22,14 +22,14 @@ Welcome to my daily TypeScript practice log! Each day I explore new concepts and
 
 
 ## 📘 <ins>Day - 2: TypeScript Fundamentals</ins>:
-*1. Intersection Types
-2. Unions
-3. Literal Types
-4. Tuples
-5. Enums
-6. OOP
+*1. Intersection Types <br/>
+2. Unions<br/>
+3. Literal Types<br/>
+4. Tuples<br/>
+5. Enums<br/>
+6. OOP<br/>
     - Class Properties Annotations
     - Access Modifiers
-    - Getters & Setters
+    - Getters & Setters<br/>
 7. Interfaces
-    - Declaration Merging*
+    - Declaration Merging*<br/>
