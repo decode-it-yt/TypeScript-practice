@@ -29,8 +29,8 @@ Welcome to my daily TypeScript practice log! Each day I explore new concepts and
 4. Tuples <br/>
 5. Enums <br/>
 6. OOP*
-   - *Class Properties Annotations* <br/>
-   - *Access Modifiers* <br/>
-   - *Getters & Setters* <br/>
+   - *Class Properties Annotations*
+   - *Access Modifiers*
+   - *Getters & Setters*
 *7. Interfaces* <br/>
    - *Declaration Merging* </br>
