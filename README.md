@@ -19,3 +19,17 @@ Welcome to my daily TypeScript practice log! Each day I explore new concepts and
 8. Multi-Dimensional Arrays {Matrix} <br/>
 9. Objects <br/>
 10. Type Alias <br/>*
+
+
+## 📘 <ins>Day - 2: TypeScript Fundamentals</ins>:
+*1. Intersection Types <br/>
+2. Unions<br/>
+3. Literal Types<br/>
+4. Tuples<br/>
+5. Enums<br/>
+6. OOP<br/>
+    - Class Properties Annotations<br/>
+    - Access Modifiers<br/>
+    - Getters & Setters<br/>
+7. Interfaces <br/>
+    - Declaration Merging*<br/>
