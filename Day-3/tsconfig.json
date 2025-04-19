@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "lib": ["dom", "es6"], // Add "dom" here
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist"
+    },
+    // "files": ["index.ts"],
+    "include": ["src/**/*"],
+    "exclude": ["src/add.ts"],
+  }
